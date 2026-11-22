@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.likhithuc.twa",
+        "sha256_cert_fingerprints": ["18:D1:60:BE:3D:19:87:4D:33:62:7F:41:9B:66:C4:31:61:22:D5:B3:D8:C0:9B:09:C4:C8:08:A3:81:69:EC:87"]
+      }
+    }]
